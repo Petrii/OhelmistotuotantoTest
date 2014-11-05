@@ -1,3 +1,4 @@
+//Kommentointia
 #include <iostream>
 #include <ctime>
 
